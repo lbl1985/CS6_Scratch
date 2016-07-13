@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\NewVariable\bin\Debug\NewVariable.exe.config
+C:\Experiment\CS\CS6_Scratch\NewVariable\bin\Debug\NewVariable.exe
+C:\Experiment\CS\CS6_Scratch\NewVariable\bin\Debug\NewVariable.pdb
+C:\Experiment\CS\CS6_Scratch\NewVariable\obj\Debug\NewVariable.exe
+C:\Experiment\CS\CS6_Scratch\NewVariable\obj\Debug\NewVariable.pdb

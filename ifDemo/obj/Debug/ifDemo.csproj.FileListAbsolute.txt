@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\ifDemo\bin\Debug\ifDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\ifDemo\bin\Debug\ifDemo.exe
+C:\Experiment\CS\CS6_Scratch\ifDemo\bin\Debug\ifDemo.pdb
+C:\Experiment\CS\CS6_Scratch\ifDemo\obj\Debug\ifDemo.exe
+C:\Experiment\CS\CS6_Scratch\ifDemo\obj\Debug\ifDemo.pdb

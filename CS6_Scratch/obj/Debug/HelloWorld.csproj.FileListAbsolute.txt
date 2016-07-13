@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\CS6_Scratch\bin\Debug\CS6_Scratch.exe.config
+C:\Experiment\CS\CS6_Scratch\CS6_Scratch\bin\Debug\CS6_Scratch.exe
+C:\Experiment\CS\CS6_Scratch\CS6_Scratch\bin\Debug\CS6_Scratch.pdb
+C:\Experiment\CS\CS6_Scratch\CS6_Scratch\obj\Debug\CS6_Scratch.exe
+C:\Experiment\CS\CS6_Scratch\CS6_Scratch\obj\Debug\CS6_Scratch.pdb
