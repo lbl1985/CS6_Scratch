@@ -1,0 +1,6 @@
+C:\Experiment\CS\CS6_Scratch\switchDemo\bin\Debug\switchDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\switchDemo\bin\Debug\switchDemo.exe
+C:\Experiment\CS\CS6_Scratch\switchDemo\bin\Debug\switchDemo.pdb
+C:\Experiment\CS\CS6_Scratch\switchDemo\obj\Debug\switchDemo.exe
+C:\Experiment\CS\CS6_Scratch\switchDemo\obj\Debug\switchDemo.pdb
+C:\Experiment\CS\CS6_Scratch\switchDemo\obj\Debug\switchDemo.csprojResolveAssemblyReference.cache

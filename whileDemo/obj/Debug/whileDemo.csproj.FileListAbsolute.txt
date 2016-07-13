@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\whileDemo\bin\Debug\whileDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\whileDemo\bin\Debug\whileDemo.exe
+C:\Experiment\CS\CS6_Scratch\whileDemo\bin\Debug\whileDemo.pdb
+C:\Experiment\CS\CS6_Scratch\whileDemo\obj\Debug\whileDemo.exe
+C:\Experiment\CS\CS6_Scratch\whileDemo\obj\Debug\whileDemo.pdb

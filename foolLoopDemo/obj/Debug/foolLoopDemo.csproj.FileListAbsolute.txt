@@ -1,0 +1,6 @@
+C:\Experiment\CS\CS6_Scratch\foolLoopDemo\bin\Debug\foolLoopDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\foolLoopDemo\bin\Debug\foolLoopDemo.exe
+C:\Experiment\CS\CS6_Scratch\foolLoopDemo\bin\Debug\foolLoopDemo.pdb
+C:\Experiment\CS\CS6_Scratch\foolLoopDemo\obj\Debug\foolLoopDemo.csprojResolveAssemblyReference.cache
+C:\Experiment\CS\CS6_Scratch\foolLoopDemo\obj\Debug\foolLoopDemo.exe
+C:\Experiment\CS\CS6_Scratch\foolLoopDemo\obj\Debug\foolLoopDemo.pdb
