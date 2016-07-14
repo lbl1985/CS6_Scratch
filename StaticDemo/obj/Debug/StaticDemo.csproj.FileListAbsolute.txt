@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Experiment\CS\CS6_Scratch\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Experiment\CS\CS6_Scratch\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Experiment\CS\CS6_Scratch\StaticDemo\obj\Debug\StaticDemo.pdb

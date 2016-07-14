@@ -3,3 +3,4 @@ C:\Experiment\CS\CS6_Scratch\ClassesDemo\bin\Debug\ClassesDemo.exe
 C:\Experiment\CS\CS6_Scratch\ClassesDemo\bin\Debug\ClassesDemo.pdb
 C:\Experiment\CS\CS6_Scratch\ClassesDemo\obj\Debug\ClassesDemo.exe
 C:\Experiment\CS\CS6_Scratch\ClassesDemo\obj\Debug\ClassesDemo.pdb
+C:\Experiment\CS\CS6_Scratch\ClassesDemo\obj\Debug\ClassesDemo.csprojResolveAssemblyReference.cache
