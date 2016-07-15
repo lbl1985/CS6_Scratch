@@ -1,0 +1,6 @@
+C:\Experiment\CS\CS6_Scratch\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\Experiment\CS\CS6_Scratch\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\Experiment\CS\CS6_Scratch\InheritanceDemo\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+C:\Experiment\CS\CS6_Scratch\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Experiment\CS\CS6_Scratch\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
