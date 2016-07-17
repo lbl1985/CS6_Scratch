@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Experiment\CS\CS6_Scratch\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Experiment\CS\CS6_Scratch\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Experiment\CS\CS6_Scratch\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Experiment\CS\CS6_Scratch\AbstractClasses\obj\Debug\AbstractClasses.pdb

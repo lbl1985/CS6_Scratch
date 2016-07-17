@@ -1,0 +1,6 @@
+C:\Experiment\CS\CS6_Scratch\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Experiment\CS\CS6_Scratch\Interfaces\bin\Debug\Interfaces.exe
+C:\Experiment\CS\CS6_Scratch\Interfaces\bin\Debug\Interfaces.pdb
+C:\Experiment\CS\CS6_Scratch\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Experiment\CS\CS6_Scratch\Interfaces\obj\Debug\Interfaces.exe
+C:\Experiment\CS\CS6_Scratch\Interfaces\obj\Debug\Interfaces.pdb
