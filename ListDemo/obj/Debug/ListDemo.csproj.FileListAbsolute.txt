@@ -1,0 +1,5 @@
+C:\Experiment\CS\CS6_Scratch\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Experiment\CS\CS6_Scratch\ListDemo\bin\Debug\ListDemo.exe
+C:\Experiment\CS\CS6_Scratch\ListDemo\bin\Debug\ListDemo.pdb
+C:\Experiment\CS\CS6_Scratch\ListDemo\obj\Debug\ListDemo.exe
+C:\Experiment\CS\CS6_Scratch\ListDemo\obj\Debug\ListDemo.pdb
